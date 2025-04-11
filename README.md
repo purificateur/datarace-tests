@@ -23,6 +23,7 @@ This repo contains test programs to validate a modified `c11tester` that reports
 | File             | Description                          |
 |------------------|--------------------------------------|
 | `rw2.cc`         | Read/write race, 2 threads           |
+| `rw5.cc`         | Read/write race, 5 threads           |
 | `rw2vars.cc`     | Race on 2 shared variables           |
 | `rw3vars.cc`     | Race on 3 variables                  |
 | `ww5.cc`         | Write/write race, 5 threads          |
